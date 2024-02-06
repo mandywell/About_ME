@@ -1,4 +1,4 @@
-👋 Hi, I’m @mplucian, a tech-savvy empath with a deep understanding of human needs. I know how to navigate the complexities of modern tech and also the intricate nuances of human emotions. I usually opt for a hands-on approach to solving problems and making things. 
+👋 Hi, I’m @mandywell, a tech-savvy empath with a deep understanding of human needs. I know how to navigate the complexities of modern tech and also the intricate nuances of human emotions. I usually opt for a hands-on approach to solving problems and making things. 
 
 💞️ I'm most excited about AI and its impact on the world of work. There is so much to unpack, whether it's the adoption and integration of AI or what skills are needed moving forward. This hits on many of my passion areas: a bit of Workforce Planning (but broader), research, L&D, policy and regulation, etc...a little bit of everything. I want to ensure everyone can access free or low-cost tools to increase productivity, enhance our lives, and ensure no one gets left behind.
 
@@ -12,7 +12,7 @@ This GitHub repository serves as my exploration playground, where I experiment w
 
 🌱 I’m currently:  Deepening my knowledge of R and am enjoying using R to find insights in data.
 
-📫 How to reach me: www.linkedin.com/in/mandypreville
+📫 How to reach me: www.linkedin.com/in/mandywellington
 
 😄 Pronouns: She/Her
 
