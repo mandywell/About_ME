@@ -6,7 +6,7 @@
 
 In many organizations, especially smaller ones, accessing sophisticated data analytics tools or hiring a dedicated data analytics team can be a significant financial challenge. Yet, deriving meaningful insights from workforce data shouldn't be a privilege reserved for those with deep pockets. By leveraging free, powerful tools such as R and Python, we can effectively bridge the gap between the need for analytics and budget constraints. 
 
-Learning how to use these tools might seem overwhelming amidst the daily hustle. Believe me, I know. I've been there. But remember, every expert was once a beginner. Let's embrace the challenge of learning the basics and go beyond. We can do this together. Let's use the remarkable capabilities of today's Large Language Models (LLMs), including ChatGPT, Bard, and Claude, as your "always-on" tutor. These models can significantly enhance your learning curve and boost your coding skills. 
+Learning how to use these tools might seem overwhelming amidst the daily hustle. Believe me, I know. I've been there. But remember, every expert was once a beginner. Let's embrace the challenge of learning the basics and go beyond. We can do this together. Let's use the remarkable capabilities of today's Generative AI models including ChatGPT, Gemini, Perplexity.ai and Claude, as your "always-on" tutor. These models can significantly enhance your learning curve and boost your skills. 
 
 This GitHub repository serves as my exploration playground, where I experiment with and share code that enables us to tackle analytical challenges together. Here, we can contribute, learn, and benefit from shared experiences and knowledge. 
 
